@@ -44,7 +44,6 @@ Do you want Disadvantage? (y/n): n
 ```
 
 ### 🎯 Future Improvements
-- ✅ Add special dice (e.g., d100, d4)
 - ✅ Implement dice modifiers (e.g., +3 or -2 to the roll)
 - ✅ Add a GUI version
 
